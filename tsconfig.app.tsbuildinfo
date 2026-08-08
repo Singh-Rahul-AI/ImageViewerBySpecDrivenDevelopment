@@ -1,0 +1,1 @@
+{"root":["./src/main.tsx","./src/components/app.test.tsx","./src/components/app.tsx","./src/components/imageviewer.tsx","./src/hooks/useimagefolder.ts","./src/test/setup.ts","./src/types/image.ts"],"version":"5.9.3"}
